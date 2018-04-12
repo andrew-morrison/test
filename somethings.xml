@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<things>
+  <thing/>
+  <thing>With text</thing>
+  <thing hasproperty="yes">With text</thing>
+  <thing hasproperty="yes"><subthing>With text</subthing></thing> 
+</things>
