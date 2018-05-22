@@ -1,0 +1,3 @@
+[submodule "testtoo"]
+	path = testtoo
+	url = git@github.com:andrew-morrison/testtoo.git
